@@ -6,7 +6,7 @@
     "InvoiceDetail": "IND"
   },
   "DataModel": {
-    "Location": ["specification/datasets/data-model.md", "specification/datasets/data_model.md"],
+    "Location": ["specification/datasets/datamodel.md", "specification/datasets/data_model.md"],
     "EntityType": "DataModel",
     "ArtifactType": "M",
     "IdPrefix": "DMO",

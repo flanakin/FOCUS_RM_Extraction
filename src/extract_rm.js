@@ -10,7 +10,7 @@
  * heading is expanded into a rule family (a root composite, sub-composites, and a
  * rule per leaf bullet).
  *
- * Entity scope: DataModel (data_model.md), Attributes (attributes/*.md), Conditions
+ * Entity scope: DataModel (datamodel.md), Attributes (attributes/*.md), Conditions
  * (operating_model_conditions/*.md), Datasets (<dataset>/dataset.md), Columns
  * (<dataset>/columns/*.md), and the Objects nested inside a JSON-object column's markdown. Each entity is written
  * to its own file, mirroring the releases/<v>/model_rules/ tree, under ./output/model_rules/.
